@@ -1,0 +1,281 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.signup-page-cRw {
+  background-position: center;
+  background-image: url('REPLACE_IMAGE:27b454e69677e2d283c9494f3c311a0080cd0c87');
+  backdrop-filter: blur(1rem);
+  background-color: #f9f9f9;
+  display: flex;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  box-sizing: border-box;
+  padding: 4.6rem 7.2rem 4.6rem 5.3rem;
+  width: 100%;
+
+  .sentiment-analysis-vBj {
+    color: #000000;
+    flex-shrink: 0;
+    cursor: pointer;
+    font-weight: 700;
+    line-height: 1.2175;
+    letter-spacing: 0.15rem;
+    white-space: nowrap;
+    margin: 0.3rem 1.8rem 0rem 0rem;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Montserrat, 'Source Sans Pro';
+  }
+  .auto-group-jsgu-caM {
+    box-sizing: border-box;
+    padding: 2.3rem 5.3rem 2.9rem 5.3rem;
+    height: 53.3rem;
+    box-shadow: 1rem 1rem 2rem rgba(0, 0, 0, 0.25);
+    border-radius: 4.4rem;
+    flex-shrink: 0;
+    margin: 21.6rem 18.4rem 0rem 0rem;
+    width: 71.8rem;
+    background-color: rgba(217, 217, 217, 0.200000003);
+
+    .hero-content-signup-v5F {
+      width: 53rem;
+      height: 100%;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+
+      .signup-eX3 {
+        text-align: center;
+        font-size: 4.5rem;
+        font-weight: 700;
+        color: #b656d8;
+        font-family: Roboto Mono, 'Source Sans Pro';
+        margin: 0rem 37rem 1.7rem 0rem;
+        line-height: 1.3175;
+        letter-spacing: -0.045rem;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .username-MwF {
+        margin: 0rem 0rem 1.9rem 8.3rem;
+        width: 44.7rem;
+        flex-shrink: 0;
+
+        .create-username-twB {
+          width: 100%;
+          text-align: center;
+          color: #635967;
+          font-size: 1.7rem;
+          font-weight: 700;
+          line-height: 1.2125;
+          letter-spacing: -0.017rem;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .auto-group-6sar-csB {
+          padding: 2.1rem 3.2rem 1.8rem 1.95rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          background-color: rgba(103, 99, 104, 0.3000000119);
+          border-radius: 1.5rem;
+          box-sizing: border-box;
+
+          .enter-your-username-wuT {
+            font-size: 2rem;
+            letter-spacing: -0.02rem;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            margin-right: 18.05rem;
+            text-align: center;
+            font-weight: 500;
+            line-height: 1.2125;
+            color: rgba(99, 89, 103, 0.75);
+            flex-shrink: 0;
+          }
+          .mdi-user-wK7 {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-top: 0.1rem;
+            width: 2rem;
+            height: 2rem;
+          }
+        }
+      }
+      .pass-EJD {
+        flex-shrink: 0;
+        margin: 0rem 0rem 2.1rem 8.3rem;
+        width: 44.7rem;
+
+        .enter-new-password-Mdj {
+          font-size: 1.7rem;
+          line-height: 1.2125;
+          color: #635967;
+          margin-bottom: 0.2rem;
+          width: 100%;
+          text-align: center;
+          white-space: nowrap;
+          font-weight: 700;
+          letter-spacing: -0.017rem;
+          font-family: Inter, 'Source Sans Pro';
+        }
+        .auto-group-vkk1-Tgm {
+          align-items: center;
+          background-color: rgba(103, 99, 104, 0.3000000119);
+          border-radius: 1.5rem;
+          box-sizing: border-box;
+          padding: 1.925rem 2.936rem 1.759rem 1.9rem;
+          width: 100%;
+          display: flex;
+
+          .enter-your-new-password-zAu {
+            white-space: nowrap;
+            margin: 0.134rem 13.439rem 0rem 0rem;
+            text-align: center;
+            font-size: 2rem;
+            font-weight: 500;
+            letter-spacing: -0.02rem;
+            font-family: Inter, 'Source Sans Pro';
+            line-height: 1.2125;
+            color: rgba(99, 89, 103, 0.75);
+            flex-shrink: 0;
+          }
+          .mdi-password-off-VdT {
+            height: 2.7162rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 2.625rem;
+          }
+        }
+      }
+      .reenter-pass-1rh {
+        margin: 0rem 0rem 0.4rem 8.3rem;
+        width: 44.7rem;
+        flex-shrink: 0;
+
+        .re-enter-new-password-9i1 {
+          letter-spacing: -0.017rem;
+          color: #635967;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-bottom: 0.2rem;
+          width: 100%;
+          text-align: center;
+          font-size: 1.7rem;
+          font-weight: 700;
+        }
+        .auto-group-nf6h-GGq {
+          padding: 2.1rem 2.66rem 1.559rem 2.2rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          background-color: rgba(103, 99, 104, 0.3000000119);
+          border-radius: 1.5rem;
+          box-sizing: border-box;
+
+          .re-enter-password-PsF {
+            font-size: 2rem;
+            font-weight: 500;
+            line-height: 1.2125;
+            flex-shrink: 0;
+            margin: 0rem 18.953rem 0.241rem 0rem;
+            text-align: center;
+            letter-spacing: -0.02rem;
+            color: rgba(99, 89, 103, 0.75);
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .mdi-password-off-tp1 {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-top: 0.025rem;
+            width: 2.8875rem;
+            height: 2.7163rem;
+          }
+        }
+      }
+      .already-have-an-account-pBs {
+        color: #635967;
+        flex-shrink: 0;
+        font-size: 1.5rem;
+        text-align: center;
+        font-weight: 500;
+        line-height: 1.2125;
+        letter-spacing: -0.015rem;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        margin: 0rem 16rem 1.8rem 0rem;
+      }
+      .auto-group-fpff-7wf {
+        font-family: Roboto Mono, 'Source Sans Pro';
+        text-align: center;
+        font-size: 3.5rem;
+        font-weight: 700;
+        line-height: 1.3175;
+        white-space: nowrap;
+        justify-content: center;
+        border-radius: 1.5rem;
+        width: calc(100% - 31.3rem);
+        height: 6.4rem;
+        display: flex;
+        align-items: center;
+        margin: 0rem 10.8rem 0rem 20.5rem;
+        color: #ffffff;
+        background-color: #b656d8;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .signup-KXw {
+    width: 11.5rem;
+    height: 3.8rem;
+    cursor: pointer;
+    position: relative;
+    border-radius: 1.5rem;
+    flex-shrink: 0;
+
+    .rectangle-3-51K {
+      width: 11.5rem;
+      height: 3.5rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: #b656d8;
+      border-radius: 1.5rem;
+    }
+    .signin-PXo {
+      position: absolute;
+      text-align: center;
+      line-height: 1.3175;
+      font-size: 2rem;
+      font-weight: 700;
+      color: #ffffff;
+      font-family: Roboto Mono, 'Source Sans Pro';
+      width: 7.3rem;
+      height: 2.7rem;
+      left: 2.1rem;
+      top: 0.3rem;
+      white-space: nowrap;
+    }
+  }
+}

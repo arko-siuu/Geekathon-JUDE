@@ -1,0 +1,576 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}
+.analysis-page-qGd {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #f9f9f9;
+}
+.analysis-page-qGd .world-1-9HK {
+  width: 145.1rem;
+  height: 12.7rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 142.33% 806.299%;
+  background-position: -30.7105rem 0;
+  background-image: url('../assets/world-1.png');
+}
+.analysis-page-qGd .rectangle-1-SnD {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  backdrop-filter: blur(1rem);
+}
+.analysis-page-qGd .rectangle-12-nLH {
+  width: 144rem;
+  height: 90.1rem;
+  position: absolute;
+  left: 0;
+  top: 12.7rem;
+  background-color: rgba(234, 231, 231, 0.9499999881);
+}
+.analysis-page-qGd .signup-iDw {
+  width: 11.5rem;
+  height: 3.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125.3rem;
+  top: 5rem;
+  border-radius: 1.5rem;
+}
+.analysis-page-qGd .signup-iDw .rectangle-3-42u {
+  width: 11.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #b656d8;
+  border-radius: 1.5rem;
+}
+.analysis-page-qGd .signup-iDw .signout-Ceu {
+  width: 8.5rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .signup-uZK {
+  width: 12.8rem;
+  height: 4.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.6rem;
+  top: 5.1rem;
+  border-radius: 1.5rem;
+}
+.analysis-page-qGd .signup-uZK .rectangle-3-SJM {
+  width: 12.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #b656d8;
+  border-radius: 1.5rem;
+}
+.analysis-page-qGd .signup-uZK .analysis-n7K {
+  width: 10.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #fefefe;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .profile-rss a{
+  text-decoration: none;
+  color: #000000;
+}
+.analysis-page-qGd .profile-rss {
+  width: 9.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 53rem;
+  top: 5.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #3c3939;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .signup-ZnH a{
+  text-decoration: none;
+  color: #000000;
+}
+.analysis-page-qGd .signup-ZnH {
+  box-sizing: border-box;
+  padding: 0.1rem 0.85rem;
+  width: 11.5rem;
+  height: 3.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 82rem;
+  top: 5.4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #3c3939;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .sentiment-analysis-py7 a{
+  text-decoration: none;
+  color: #000000;
+}
+.analysis-page-qGd .sentiment-analysis-py7 {
+  width: 28rem;
+  height: 3.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.3rem;
+  top: 4.9rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.15rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .rectangle-13-KQ5 {
+  width: 109.3rem;
+  height: 26rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 20.7rem;
+  backdrop-filter: blur(10rem);
+  background-color: #fafafa;
+  border-radius: 2.6rem;
+}
+.analysis-page-qGd .analysis-your-post-q7X {
+  width: 36.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 22.55rem;
+  top: 23.5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.09rem;
+  text-transform: uppercase;
+  color: #454343;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .paste-url--8cR {
+  width: 11.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 23rem;
+  top: 29.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #454343;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .sentiment--Dtm {
+  width: 11.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 25.65rem;
+  top: 42.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #454343;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.analysis-page-qGd .sentiment--Dtm .sentiment--Dtm-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #454343;
+  font-family: Roboto, 'Source Sans Pro';
+}
+
+.analysis-page-qGd .positive-iyw {
+  width: 7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 49.25rem;
+  top: 42.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.054rem;
+  color: #454343;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .neutral-d5K {
+  width: 6.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 76.65rem;
+  top: 42.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.054rem;
+  text-transform: capitalize;
+  color: #454343;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .negative-iMf {
+  width: 7.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 104.9rem;
+  top: 42.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.054rem;
+  color: #454343;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .rectangle-14-p9o input {
+  width: 76.3rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 22.6rem;
+  top: 32.3rem;
+  padding-left: 10px;
+  background-color: #efefef;
+  outline: none;
+  box-shadow: none;
+}
+.analysis-page-qGd .rectangle-15-9Sy {
+  width: 19.1rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 98.9rem;
+  top: 32.2rem;
+  background-color: #b656d8;
+}
+.analysis-page-qGd .rectangle-14-p9o input::placeholder {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-left: 20%;
+  color: #837c7c;
+  font-family: Roboto Mono, 'Source Sans Pro';
+}
+.analysis-page-qGd .rectangle-15-9Sy a{
+  text-decoration: none;
+  color: #ffffff;
+}
+.analysis-page-qGd .rectangle-15-9Sy{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10.6rem;
+  height: 6.4rem;
+  left: 100rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+/*.analysis-page-qGd .start-zTb {
+  width: 10.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 103.15rem;
+  top: 33.2rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}*/
+.analysis-page-qGd .ellipse-1-7HK {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 47.3rem;
+  top: 42.6rem;
+  background-color: #29ce43;
+  border-radius: 0.8rem;
+}
+.analysis-page-qGd .ellipse-2-2fB {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 74.7rem;
+  top: 42.7rem;
+  background-color: #e86a10;
+  border-radius: 0.8rem;
+}
+.analysis-page-qGd .ellipse-3-YNd {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 103.1rem;
+  top: 42.7rem;
+  background-color: #d60808;
+  border-radius: 0.8rem;
+}
+.analysis-page-qGd .rectangle-16-fTF {
+  width: 39.4rem;
+  height: 44.1rem;
+  position: absolute;
+  left: 86.4rem;
+  top: 52.7rem;
+  background-color: #fafafa;
+  border-radius: 2.9rem;
+}
+.analysis-page-qGd .ellipse-4-zkR {
+  width: 26.8rem;
+  height: 26.8rem;
+  position: absolute;
+  left: 92.7rem;
+  top: 61.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.analysis-page-qGd .ellipse-5-w9s {
+  width: 29.0961rem;
+  height: 29.0961rem;
+  position: absolute;
+  left: 91.552rem;
+  top: 60.352rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.analysis-page-qGd .ellipse-6-sJR {
+  width: 28.7797rem;
+  height: 28.7879rem;
+  position: absolute;
+  left: 91.6rem;
+  top: 60.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.analysis-page-qGd .rectangle-17-cG1 {
+  width: 8.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 108.3rem;
+  top: 61.6rem;
+  backdrop-filter: blur(2.5rem);
+  background-color: rgba(234, 234, 234, 0.6999999881);
+  border-radius: 1.5rem;
+}
+.analysis-page-qGd .rectangle-18-j5j {
+  width: 8.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 110.5rem;
+  top: 82rem;
+  backdrop-filter: blur(2.5rem);
+  background-color: rgba(234, 234, 234, 0.6999999881);
+  border-radius: 1.5rem;
+}
+.analysis-page-qGd .rectangle-20-FZs {
+  width: 8.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 92.6rem;
+  top: 81rem;
+  backdrop-filter: blur(2.5rem);
+  background-color: rgba(234, 234, 234, 0.6999999881);
+  border-radius: 1.5rem;
+}
+.analysis-page-qGd .item-67-mYD {
+  width: 6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 109.85rem;
+  top: 62.3rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.09rem;
+  color: #29ce43;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .item-15-ftV {
+  width: 6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 112.05rem;
+  top: 82.7rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.09rem;
+  color: #d91f1f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .item-18-aEm {
+  width: 6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 94.15rem;
+  top: 81.7rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.09rem;
+  color: #e86a10;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .total-score-g2u {
+  width: 13rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 89.75rem;
+  top: 55.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.072rem;
+  color: #454343;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .rectangle-22-Ayf {
+  width: 64.7rem;
+  height: 44.1rem;
+  position: absolute;
+  left: 18.7rem;
+  top: 52.7rem;
+  background-color: #fafafa;
+  border-radius: 2.9rem;
+}
+.analysis-page-qGd .comments-Vm3 {
+  width: 14rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 22.55rem;
+  top: 55.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.072rem;
+  color: #454343;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .total-zho {
+  width: 5.1rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 58.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.048rem;
+  color: #454343;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .comments-JiV {
+  width: 9.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 65.25rem;
+  top: 60.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.048rem;
+  color: #454343;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.analysis-page-qGd .item-336-1so {
+  width: 6.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 58.65rem;
+  top: 58.3rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #454343;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
